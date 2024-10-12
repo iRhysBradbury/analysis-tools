@@ -2,3 +2,4 @@ yfinance
 matplotlib
 dataclasses
 flask
+seaborn
